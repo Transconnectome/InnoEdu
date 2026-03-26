@@ -1,0 +1,18 @@
+{
+  "current": 9,
+  "total": 9,
+  "step": "전체 완료: Step 1-9 모두 completed. NLM 40문항 + 위원회 안건서 + 강의계획서 4과목 + AI Bootcamp + 예산 집행 계획.",
+  "updated": "2026-03-26T10:00:00+09:00",
+  "steps": [
+    { "id": 1, "name": "문헌 조사 P0-P3 (600편)", "status": "completed" },
+    { "id": 2, "name": "Phase C/D 품질검증·근거매핑", "status": "completed" },
+    { "id": 3, "name": "거버넌스 구조·헌장 설계", "status": "completed" },
+    { "id": 4, "name": "NLM 노트북 + 온보딩 문서 + 질문 계획", "status": "completed" },
+    { "id": 4.5, "name": "NLM 부실소스 정리 + Abstract Enrichment (262/298 DOI)", "status": "completed" },
+    { "id": 5, "name": "NLM 40개 심층 질문 실행·인사이트 수집", "status": "completed", "result": "40/40 성공, 235 소스, 599 인용, 6개 파일 생성" },
+    { "id": 6, "name": "교과운영위원회 안건서·브리핑 자료", "status": "completed", "result": "안건서 7개 안건(의결 2건) + 교수진 브리핑 핵심 10가지" },
+    { "id": 7, "name": "신설 4과목 강의계획서 (서울대 양식)", "status": "completed", "result": "N1-N4 서울대 양식 16주 강의계획서 4개 완성" },
+    { "id": 8, "name": "AI Teaching Bootcamp 상세 프로그램", "status": "completed", "result": "3일 프로그램 + FLC 연계 + 예산 9.2M 상세" },
+    { "id": 9, "name": "예산 월별 집행 계획 상세화", "status": "completed", "result": "월별 집행표 + 비목별 기준 + 합계 70M 검증 완료" }
+  ]
+}
