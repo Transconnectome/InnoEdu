@@ -4,7 +4,7 @@
 
 서울대학교 사회과학대학 심리학과
 
-> 최종 업데이트: 2026-03-23
+> 최종 업데이트: 2026-04-02
 
 ---
 
@@ -25,7 +25,58 @@
 
 ---
 
-## 현재 진행 상태 (2026-03-23)
+## 온보딩 가이드: 어디서부터 읽을까?
+
+프로젝트에 115개 이상의 문서가 있어 처음 참여하는 분께는 압도적일 수 있다. 아래 3단계 읽기 경로를 따르면 핵심을 빠르게 파악할 수 있다.
+
+### 5분 코스 — 핵심만 파악
+
+| 문서 | 설명 | 읽기 시간 |
+|------|------|----------|
+| [본 문서 (README.md)](README.md) | 사업 개요, 현재 상태, 핵심 수치, 타임라인 | 5분 |
+
+### 30분 코스 — 위원회 참여 전 필수
+
+| 문서 | 설명 | 읽기 시간 |
+|------|------|----------|
+| [교수진 핵심 요약 1쪽](plans/kickoff/level1_summary.md) | 600편 문헌이 말하는 5가지 핵심 근거 + 의결 2건 + 측정 한계 투명 공개 | 5분 |
+| [교수진 브리핑](plans/committee_briefing.md) | 10대 핵심 인사이트, 효과크기 데이터, 글로벌 벤치마크, 측정 도구 현황 | 15분 |
+| [교과과정 마스터플랜](plans/curriculum_master_plan.md) | 신설 4과목 + 강화개편 10과목 상세 설계, 4단계 학부 연구 파이프라인 | 10분 (핵심만) |
+
+### 2시간 코스 — 본격 참여
+
+| 문서 | 설명 | 읽기 시간 |
+|------|------|----------|
+| [거버넌스 구조](plans/governance_structure.md) | 3층 거버넌스 모델, 모듈 리드 배정, 월별 시간 투입량 | 15분 |
+| [거버넌스 헌장](plans/governance_charter.md) | 의사결정 절차, 정족수, 투표 규칙, 위험 관리 체계 | 15분 |
+| [예산 월별 집행 계획](plans/budget_execution_plan.md) | 7천만원 월별 배분, 분기별 검토, 비목별 기준 | 10분 |
+| [AI 교수 부트캠프 프로그램](plans/ai_bootcamp_program.md) | 교수진 3일 + 학부생 5일 부트캠프 상세 커리큘럼 | 15분 |
+| [발표 슬라이드 스크립트](plans/kickoff/slide_deck.md) | 킥오프 미팅 20분 브리핑 10장, 발표자 노트 포함 | 10분 |
+| [예상 질문 FAQ 12문항](plans/kickoff/faculty_faq.md) | "왜 지금 바꿔야 하나?" 등 예상 질문에 대한 근거 기반 답변 | 15분 |
+
+### 심화 참조 — 관심 분야만
+
+| 문서 | 설명 |
+|------|------|
+| [600편 최종 보고서](research/final_report.md) | 체계적 문헌연구(Scoping Review) 최종 보고서 |
+| [NotebookLM 심층 인사이트](research/nlm_insights/) | 262편 원문 기반 40개 심층 질문 답변 (비전·전략·실행·연구·도발적질문·종합) |
+| [과목별 근거 매핑](research/evidence_mapping/) | 14과목 각각의 문헌 근거 (N1-N4, E1-E10) |
+| [분기별 종합 보고서](research/synthesis/) | 7개 분기(교과설계·AI방법·문제기반학습·학부연구·교수역량·글로벌벤치마크·평가) |
+| [신설 4과목 강의계획서](plans/syllabi/) | N1-N4 서울대 양식 16주 강의계획서 |
+
+---
+
+## 제안서 및 공식 서류
+
+| 문서 | 설명 | 파일 |
+|------|------|------|
+| **사업계획서** (PDF, 3.1MB) | 최종 제출 서류 — 사업계획서 + 연구자 편성표 + 예산계획서 | `[최종 제출 서류] 2026학년도 Inno-Edu 2031 서울대 창의교육프로젝트 사업계획서, 연구자 편성표, 예산계획서.pdf` |
+| **과제 안내사항** (HWP) | 신규사업 대상 과제 관련 안내사항 | `[붙임2] 2026학년도 Inno-Edu 2031 서울대 창의교육프로젝트 과제 관련 안내사항(신규사업 대상).hwp` |
+| **교내연구과제협약서** (HWP) | 사회과학대학 차지욱 교수 연구과제 협약 | `1. 교내연구과제협약서(사회과학대학 차지욱 교수).hwp` |
+
+---
+
+## 현재 진행 상태 (2026-04-02)
 
 ### Phase별 완료 현황
 
@@ -96,7 +147,14 @@ InnoEdu/
 │   ├── curriculum_master_plan.md       ← ★ 교과과정 혁신 마스터플랜 (14과목 상세)
 │   ├── governance_structure.md         ← 3층 거버넌스 구조 설계
 │   ├── governance_charter.md           ← 거버넌스 헌장 (의사결정 절차)
-│   └── P{1,2,3}_resume_prompt.md      ← 문헌검색 재개용 프롬프트
+│   ├── committee_briefing.md           ← 교수진 브리핑 (10대 인사이트)
+│   ├── committee_agenda.md             ← 위원회 안건서 (7개 안건)
+│   ├── faculty_meeting_plan.md         ← 회의 기획서 (3단계 배포 전략)
+│   ├── ai_bootcamp_program.md          ← AI 교수 부트캠프 프로그램
+│   ├── budget_execution_plan.md        ← 예산 월별 집행 계획
+│   ├── kickoff/ (11 files)             ← ★ 킥오프 미팅 전체 자료 (상세는 아래 섹션)
+│   ├── syllabi/N{1-4}_syllabus.md      ← 신설 4과목 강의계획서 (서울대 양식)
+│   └── P{1,2,3}_resume_prompt.md       ← 문헌검색 재개용 프롬프트
 │
 ├── research/                           ← 문헌 연구 전체 산출물 (78개 MD 파일)
 │   ├── research_protocol_600.md        ← 연구 프로토콜 (PCC, 검색 전략)
@@ -118,7 +176,8 @@ InnoEdu/
 │   ├── top50_core_sources.md           ← Top 50 핵심 소스 선정
 │   ├── apa_goals_mapping.md            ← APA 3.0 × 14과목 매핑
 │   ├── curriculum_innovation_evidence.md
-│   ├── notebooklm_queries.md           ← NLM 쿼리 결과 5건
+│   ├── nlm_insights/ (6 files)          ← ★ NotebookLM 40개 심층 질문 인사이트
+│   ├── notebooklm_queries.md           ← NotebookLM 쿼리 결과 5건
 │   │
 │   ├── progress_report_P0P1.md         ← P0+P1 통합 보고서
 │   ├── progress_report_P0P1P2.md       ← P0+P1+P2 통합 보고서
@@ -146,12 +205,64 @@ InnoEdu/
 
 ---
 
+## 킥오프 미팅 자료 (4월 3일)
+
+교과운영위원회 제1차 정기회의(90분)를 위해 준비된 11개 산출물이다. 모두 `plans/kickoff/` 디렉토리에 위치한다.
+
+### 교수진 배포용
+
+| 문서 | 설명 |
+|------|------|
+| [교수진 핵심 요약 1쪽](plans/kickoff/level1_summary.md) | 600편 문헌 기반 5가지 핵심 근거 + 의결 2건 + 측정 한계 투명 공개. A4 양면 인쇄용. |
+| [소그룹 토론 핸드아웃](plans/kickoff/discussion_handout.md) | 3개 그룹(뇌+마음 / 행동 / 방법+전체)별 토론 질문 + 기록 템플릿 |
+
+### 발표자용
+
+| 문서 | 설명 |
+|------|------|
+| [슬라이드 스크립트 10장](plans/kickoff/slide_deck.md) | 20분 브리핑 대본. 슬라이드당 핵심 메시지 + 시각화 제안 + 발표자 노트 + 예상 질문 대응 |
+| [리허설 노트](plans/kickoff/rehearsal_notes.md) | 시간 배분 점검, 핵심 멘트 3가지, 시나리오별 대응(순조/시간초과/강한반대/정족수미달) |
+| [예상 질문 FAQ 12문항](plans/kickoff/faculty_faq.md) | "왜 지금 바꿔야 하나?"부터 "예산이 충분한가?"까지, 근거 기반 답변 |
+
+### 운영용
+
+| 문서 | 설명 |
+|------|------|
+| [사전 배포 이메일 초안](plans/kickoff/email_draft.md) | D-2 발송용. 필수 읽기(5분) + 선택 읽기(15분) 안내 |
+| [회의록 템플릿](plans/kickoff/minutes_template.md) | 90분 4개 안건 구조에 맞춘 기록 양식. 의결 결과(찬/반/기권) 기록란 포함 |
+| [로지스틱스 체크리스트](plans/kickoff/logistics_checklist.md) | D-2부터 D+7까지 인쇄물·장비·다과·비상대응 전체 점검표 |
+| [회의 후 피드백 양식](plans/kickoff/post_meeting_form.md) | 5점 리커트 + 자유기술. 교수학습공동체 참여 의향, 부트캠프 일정 선호도 포함 |
+
+### 내부 전용 (비배포)
+
+| 문서 | 설명 |
+|------|------|
+| [사전 로비 토킹포인트](plans/kickoff/pre_lobby_points.md) | 12명 교수별 맞춤 대화 포인트. 모듈·예상 우려·대응 전략·요청 역할 |
+| [보조연구원 채용 공고](plans/kickoff/ra_job_posting.md) | 2명(행정·연구지원 + 교육콘텐츠지원), 월 525,000원, 4-12월 |
+
+---
+
 ## NotebookLM 노트북
 
-| 노트북 | ID | URL | 소스 수 | 용도 |
-|--------|-----|-----|---------|------|
-| InnoEdu_Literature_600 | `91cb74ba-cb54-4de1-98d6-26f5b9af1aa1` | [링크](https://notebooklm.google.com/notebook/91cb74ba-cb54-4de1-98d6-26f5b9af1aa1) | 26개 | P0-P1 데이터 + Phase C/D 산출물 |
-| innoedu_230 | `9a7c23bf-043a-472e-8111-eb13a39bbd20` | [링크](https://notebooklm.google.com/notebook/9a7c23bf-043a-472e-8111-eb13a39bbd20) | ~239 (추가 중) | DOI 기반 원문 논문 컬렉션 |
+본 프로젝트는 Google NotebookLM을 활용하여 262편의 원문 논문을 심층 분석하였다. 40개의 구체적 질문("문제기반학습의 최적 그룹 크기는?", "교수 대상 부트캠프 효과 근거가 있는가?" 등)을 던져 37개에서 실질적 인사이트를 도출하였다.
+
+| 노트북 | URL | 소스 수 | 용도 |
+|--------|-----|---------|------|
+| **InnoEdu_Literature_600** | [notebooklm.google.com/...91cb74ba](https://notebooklm.google.com/notebook/91cb74ba-cb54-4de1-98d6-26f5b9af1aa1) | 26개 | P0-P1 단계 데이터 + 품질 검증·근거 매핑 산출물 |
+| **innoedu_230** | [notebooklm.google.com/...9a7c23bf](https://notebooklm.google.com/notebook/9a7c23bf-043a-472e-8111-eb13a39bbd20) | ~239개 | DOI 기반 원문 논문 컬렉션 — 40개 심층 질문의 주 소스 |
+
+### NotebookLM 심층 분석 결과 (research/nlm_insights/)
+
+40개 질문의 답변이 6개 파일로 정리되어 있다:
+
+| 파일 | 주제 | 질문 수 |
+|------|------|---------|
+| [01_vision.md](research/nlm_insights/01_vision.md) | 비전과 방향 — 심리학 교육의 미래, AI가 대체할 수 있는/없는 역량 | 8문항 |
+| [02_strategy.md](research/nlm_insights/02_strategy.md) | 전략 — 글로벌 벤치마크, 실패한 교육 혁신 사례, 문제기반학습 전환 속도 | 8문항 |
+| [03_execution.md](research/nlm_insights/03_execution.md) | 실행 — 부트캠프 설계, R/tidyverse 도입, 문제기반학습 시나리오, 측정 도구 | 8문항 |
+| [04_research.md](research/nlm_insights/04_research.md) | 연구역량 — 학부 연구 참여 효과, 오픈사이언스, 디지털 표현형 | 8문항 |
+| [05_provocative.md](research/nlm_insights/05_provocative.md) | 도발적 질문 — 강의식 수업 실패론, AI와 비판적 사고, 코딩 형평성, 교수 저항 | 8문항 |
+| [06_synthesis.md](research/nlm_insights/06_synthesis.md) | 종합 — 6대 교차 패턴, 근거 강도 매핑(강한/약한/부재), 실행 우선순위 | 종합 |
 
 ---
 
@@ -169,11 +280,12 @@ InnoEdu/
 
 ```
 3월 ──── 사업 시작 (3/1)
-  │      교과운영위원회 1차 논의 ← ⚠️ 미착수
-  │      RA/보조연구원 채용 ← ⚠️ 미착수
+  │      문헌연구 600편 완료 ✅
+  │      킥오프 미팅 자료 11건 완성 ✅
   │
-4월 ──── BMBM 개편 방향 합의
-  │      N1-N4 강의계획서 초안 (서울대 양식)
+4월 ──── 교과운영위원회 킥오프 (4/3) 🔄
+  │      보조연구원 2명 채용
+  │      뇌-마음-행동-방법 개편 방향 합의
   │
 5월 ──── 졸업논문 3트랙 개선안 확정
   │      강화 개편 10과목 담당 교수 배정
