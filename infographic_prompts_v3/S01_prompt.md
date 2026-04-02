@@ -29,17 +29,17 @@ BMBM 프레임워크: 39개 과목의 체계적 재편성
 
 **4칸 수평 카드** (동일 크기, 색상 구분):
 
-#1A365D 박스: Brain 뇌 28% (20pt Bold #FFFFFF)
-11개 과목 (16pt #FFFFFF)
+dark navy 박스: Brain 뇌 28% (20pt Bold white)
+11개 과목 (16pt white)
 
-#0072B2 박스: Mind 마음 20.5% (20pt Bold #FFFFFF)
-8개 과목 (16pt #FFFFFF)
+blue 박스: Mind 마음 20.5% (20pt Bold white)
+8개 과목 (16pt white)
 
-#E69F00 박스: Behavior 행동 31% (20pt Bold #FFFFFF)
-12개 과목 (16pt #FFFFFF)
+orange 박스: Behavior 행동 31% (20pt Bold white)
+12개 과목 (16pt white)
 
-#2D3748 박스: Method 방법 20.5% (20pt Bold #FFFFFF)
-8개 과목 (16pt #FFFFFF)
+dark gray 박스: Method 방법 20.5% (20pt Bold white)
+8개 과목 (16pt white)
 
 **하단 서브 텍스트** (20pt #2D3748):
 신설 4개(N1-N4) + 개편 10개(E1-E10) = 14개 과목 조정

@@ -36,8 +36,8 @@ Create a 16:9 horizontal Korean infographic on white background.
 
 카드2 (#0072B2 outline):
 "PBL 교수법" (20pt Bold #0072B2)
-"ES 0.44-0.64" (32pt Bold #E69F00)
-"메타분석 효과크기" (16pt #2D3748)
+"메타분석 검증" (32pt Bold #E69F00)
+"학업 성취 유의미 향상" (16pt #2D3748)
 
 카드3 (#E69F00 outline):
 "학부 연구 참여" (20pt Bold #E69F00)
