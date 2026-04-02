@@ -1,8 +1,8 @@
 {
-  "current": 10,
-  "total": 10,
-  "step": "Step 10 완료: 교과운영위원회 킥오프 미팅 준비 — 11개 산출물(plans/kickoff/) 완성. 4/3(금) 미팅 준비 완료.",
-  "updated": "2026-03-31T23:15:00+09:00",
+  "current": 11,
+  "total": 11,
+  "step": "Step 11 완료: 교수진 온보딩 인포그래픽 3장 제작 — 레드팀 리뷰 반영, BMBM 구조 중심, generated_slides_v3/ 완성.",
+  "updated": "2026-04-02T15:10:00+09:00",
   "steps": [
     { "id": 1, "name": "문헌 조사 P0-P3 (600편)", "status": "completed" },
     { "id": 2, "name": "Phase C/D 품질검증·근거매핑", "status": "completed" },
@@ -14,6 +14,7 @@
     { "id": 7, "name": "신설 4과목 강의계획서 (서울대 양식)", "status": "completed", "result": "N1-N4 서울대 양식 16주 강의계획서 4개 완성" },
     { "id": 8, "name": "AI Teaching Bootcamp 상세 프로그램", "status": "completed", "result": "3일 프로그램 + FLC 연계 + 예산 9.2M 상세" },
     { "id": 9, "name": "예산 월별 집행 계획 상세화", "status": "completed", "result": "월별 집행표 + 비목별 기준 + 합계 70M 검증 완료" },
-    { "id": 10, "name": "교과운영위원회 킥오프 미팅 준비", "status": "completed", "result": "11개 산출물 완성: Level 1 요약, 슬라이드 10장, 소그룹 핸드아웃, 사전 로비 포인트(12명), FAQ 12문항, 이메일, 회의록 템플릿, RA 공고, 피드백 양식, 로지스틱스, 리허설 노트" }
+    { "id": 10, "name": "교과운영위원회 킥오프 미팅 준비", "status": "completed", "result": "11개 산출물 완성: Level 1 요약, 슬라이드 10장, 소그룹 핸드아웃, 사전 로비 포인트(12명), FAQ 12문항, 이메일, 회의록 템플릿, RA 공고, 피드백 양식, 로지스틱스, 리허설 노트" },
+    { "id": 11, "name": "교수진 온보딩 인포그래픽 3장", "status": "completed", "result": "레드팀 리뷰 반영 3장: S01(BMBM 프레임워크) S02(검증된 데이터) S03(단계별 검증). generated_slides_v3/ 6개 이미지" }
   ]
 }
